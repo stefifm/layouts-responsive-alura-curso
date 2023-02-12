@@ -9,3 +9,4 @@ Entendimiento sobre cómo se desarrolla este proceso empezando por un diseño re
 Hablamos sobre las características y diferencias entre los tipos de imágenes, de las semánticas del HTML y los medias types. 
 
 ### Demo
+https://user-images.githubusercontent.com/64149462/218327869-45a0281a-7dcd-4148-a408-ce188e2059d7.mp4
