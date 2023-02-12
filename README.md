@@ -10,3 +10,6 @@ Hablamos sobre las características y diferencias entre los tipos de imágenes, 
 
 ### Demo
 https://user-images.githubusercontent.com/64149462/218327869-45a0281a-7dcd-4148-a408-ce188e2059d7.mp4
+
+### Página
+https://stefifm.github.io/layouts-responsive-alura-curso/
